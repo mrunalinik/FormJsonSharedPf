@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HomeWork1</string>
+    <string name="radio_male">male</string>
+    <string name="radio_female">female</string>
+    <string name="feedbacktype">Feedback type</string>
+    <!--Other string resources also defined in this file… -->
+        <string name="feedbacktype1">Praise</string>
+        <string name="feedbacktype2">Gripe</string>
+        <string name="feedbacktype3">Suggestion</string>
+        <string name="feedbacktype4">Bug</string>
+<string name="notes">
+    Form Controls:
+    EditText:To collect text input, use EditText controls
+    Spinner:To limit the user to a fixed set of responses, use Spinner controls, similar to a drop-down menu
+    Checkbox:To collect boolean (yes/no) input, use CheckBox controls
+    Button:To allow the user to trigger events, use Button controls</string>
+</resources>
